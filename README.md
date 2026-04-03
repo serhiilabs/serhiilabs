@@ -11,6 +11,12 @@ with code merged into Laravel, Symfony, and WooCommerce.
 | [laravel-ai-validator](https://github.com/serhiilabs/laravel-ai-validator) | AI-powered validation rules using natural language | `composer require serhiilabs/laravel-ai-validator` |
 | [inscribe](https://github.com/serhiilabs/inscribe) | Fluent template builder for text composition | `composer require serhiilabs/inscribe` |
 
+#### Forks
+
+| Project | Description |
+|---------|-------------|
+| [keybr.com](https://github.com/serhiilabs/keybr.com) | Self-hosted keybr.com for Ukrainian users - default uk locale, clean UI, Docker deployment |
+
 #### Stack
 
 `PHP 8` `Laravel` `Symfony` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Python`
