@@ -17,10 +17,6 @@ with code merged into Laravel, Symfony, and WooCommerce.
 |---------|-------------|
 | [keybr.com](https://github.com/serhiilabs/keybr.com) | Self-hosted keybr.com for Ukrainian users - default uk locale, clean UI, Docker deployment |
 
-#### Stack
-
-`PHP 8` `Laravel` `Symfony` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Python`
-
 #### Open-Source Contributions
 
 | Project | PR | Description |
@@ -32,3 +28,7 @@ with code merged into Laravel, Symfony, and WooCommerce.
 | [neo4j-symfony](https://github.com/neo4j-php/neo4j-symfony/pull/100) | #100 | Implement missing getServerInfo method |
 | [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/pull/8491) | #8491 | Update PostgreSQL docs link |
 | [PHP docs (uk)](https://github.com/php/doc-uk/pull/14) | #14 | Ukrainian translation: type-system |
+
+#### Stack
+
+`PHP 8` `Laravel` `Symfony` `PostgreSQL` `Redis` `RabbitMQ` `Docker` `Python`
